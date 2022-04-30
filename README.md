@@ -6,6 +6,10 @@ This is a Body Mass Index(BMI) Calculator app inspired by the beautiful designs 
 ## App Preview ⬇️
 <img src="https://user-images.githubusercontent.com/74370799/158027403-e44030c9-da23-4b75-8b96-301c28584f2a.gif" width="352" height="630">
 
+<br>
+
+⏬ [Download APK Here](https://drive.google.com/file/d/1PGVPC-XpJbTGYXEqhyynuWn5_FMeMxHF/view?usp=sharing)
+
 
 
 
