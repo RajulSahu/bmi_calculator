@@ -8,7 +8,7 @@ This is a Body Mass Index(BMI) Calculator app inspired by the beautiful designs 
 
 <br>
 
-⏬ [Download APK Here](https://drive.google.com/file/d/1PGVPC-XpJbTGYXEqhyynuWn5_FMeMxHF/view?usp=sharing)
+⏬ [Download APK Here](https://drive.google.com/file/d/1bkBqy-Vp8aY7s0MGbr5lsm4DQJLJr-iC/view?usp=sharing)
 
 
 
